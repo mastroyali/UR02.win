@@ -344,8 +344,8 @@ tooltip_label = tk.Label(
 device_menu.grid(row=0, column=0, padx=2, pady=2)
 start_button.grid(row=0, column=1, padx=2, pady=2)
 last_event_display.grid(row=0, column=2, padx=2, pady=2)
-draw_circles()
 
+draw_circles()
 auto_connect()
 root.mainloop()
 
