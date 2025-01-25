@@ -1,4 +1,4 @@
-# UR02.win
+# UR02.win project by Mastroyali
 # UR-02+ (Beta)
 
 **Project Description:**  
