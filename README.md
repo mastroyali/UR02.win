@@ -30,6 +30,7 @@ The project is in the Beta stage. Key mappings are currently fixed.
 - Python 3.x.  
 - Compatible UR-02 remote control.  
 
+There is also a compiled .exe file available.
 ---
 
 Feedback and suggestions are welcome!
