@@ -2,7 +2,7 @@
 # UR-02+ (Beta)
 
 DOWNLOAD:
-https://github.com/mastroyali/UR02.win/releases/download/UR02%2B/UR02.beta1.exe
+go to Release
 
 **Project Description:**  
 This repository contains a Python script for enabling 18 buttons (bt) of the UR-02 remote control from UGOOS in Windows. The program provides an easy way to map remote control buttons to keyboard actions, making it a perfect tool for managing Windows applications.
